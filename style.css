@@ -1,0 +1,22 @@
+.new-box1 {
+  border: 2px solid #eee;
+  width: 350px;
+  height: 250px;
+  border-radius: 10px;
+}
+.section1,
+.section2 {
+  padding: 50px;
+}
+.section2 .new-box1 {
+  border: 2px solid #eee;
+  width: 100%;
+  height: 250px;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+.new-box2 {
+  border: 3px solid #eee;
+  padding: 15px;
+  border-radius: 10px;
+}
